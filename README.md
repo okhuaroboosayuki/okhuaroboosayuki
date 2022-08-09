@@ -15,5 +15,5 @@ I'm software engineer, and a Sales Manager who currently works as a Retail Sales
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=okhuarobo-osayuki&show_icons=true&include_all_commits=true&hide_border=true" alt="Osayuki's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okhuarobo-osayuki&langs_count=8&layout=compact&hide_border=true" alt="Osayuki's GitHub stats" /> |
 | ------------- | ------------- |
