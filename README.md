@@ -10,7 +10,7 @@ As a Frontend Engineer, I have a growing passion for Reactjs and Vue.js. I am de
 - 🌱 I am currently enhancing my Frontend skills with JavaScript and exploring JS libraries such as Reactjs and Vue.js.
 - 😊 I am seeking opportunities for growth such as participating in open source projects, hackathons, internships, and entry-level positions.
 - 💼 My job interests include Frontend Engineering roles specializing in Reactjs or Vue.js.
-- 📫 You can view my [resume](#) and reach out to me by emailing osayukiraymond@gmail.com.
+- 📫 You can view my [resume](https://rebrand.ly/kn2b3yo) and reach out to me by emailing osayukiraymond@gmail.com.
 
 ---
 
